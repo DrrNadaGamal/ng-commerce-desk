@@ -1,0 +1,27 @@
+26 checks passed
+PASS Elementor active: WooCommerce seed data loads
+PASS Elementor active en/1440/overview
+PASS Elementor active en/1440/orders
+PASS Elementor active en/1440/inventory
+PASS Elementor active en/1440/settings
+PASS Elementor active en/390/overview
+PASS Elementor active en/390/orders
+PASS Elementor active en/390/inventory
+PASS Elementor active en/390/settings
+PASS Elementor active en/320/overview
+PASS Elementor active en/320/orders
+PASS Elementor active en/320/inventory
+PASS Elementor active en/320/settings
+PASS Elementor active ar/1440/overview
+PASS Elementor active ar/1440/orders
+PASS Elementor active ar/1440/inventory
+PASS Elementor active ar/1440/settings
+PASS Elementor active ar/390/overview
+PASS Elementor active ar/390/orders
+PASS Elementor active ar/390/inventory
+PASS Elementor active ar/390/settings
+PASS Elementor active ar/320/overview
+PASS Elementor active ar/320/orders
+PASS Elementor active ar/320/inventory
+PASS Elementor active ar/320/settings
+PASS No browser JavaScript errors

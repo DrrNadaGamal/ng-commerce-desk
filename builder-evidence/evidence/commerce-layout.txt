@@ -1,0 +1,28 @@
+SERVER READY
+PASS 1 Elementor active: WooCommerce seed data loads
+PASS 2 Elementor active en/1440/overview
+PASS 3 Elementor active en/1440/orders
+PASS 4 Elementor active en/1440/inventory
+PASS 5 Elementor active en/1440/settings
+PASS 6 Elementor active en/390/overview
+PASS 7 Elementor active en/390/orders
+PASS 8 Elementor active en/390/inventory
+PASS 9 Elementor active en/390/settings
+PASS 10 Elementor active en/320/overview
+PASS 11 Elementor active en/320/orders
+PASS 12 Elementor active en/320/inventory
+PASS 13 Elementor active en/320/settings
+PASS 14 Elementor active ar/1440/overview
+PASS 15 Elementor active ar/1440/orders
+PASS 16 Elementor active ar/1440/inventory
+PASS 17 Elementor active ar/1440/settings
+PASS 18 Elementor active ar/390/overview
+PASS 19 Elementor active ar/390/orders
+PASS 20 Elementor active ar/390/inventory
+PASS 21 Elementor active ar/390/settings
+PASS 22 Elementor active ar/320/overview
+PASS 23 Elementor active ar/320/orders
+PASS 24 Elementor active ar/320/inventory
+PASS 25 Elementor active ar/320/settings
+PASS 26 No browser JavaScript errors
+26 CHECKS PASS

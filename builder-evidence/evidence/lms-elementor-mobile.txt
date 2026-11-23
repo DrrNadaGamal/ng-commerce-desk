@@ -1,0 +1,7 @@
+PASS 1 Elementor Shortcode widget renders four courses
+PASS 2 320px consent checked
+PASS 3 320px physical enrol click saved
+PASS 4 320px reader completion via physical click
+PASS 5 320px completion survives reload
+PASS 6 No JavaScript errors
+6 CHECKS PASS

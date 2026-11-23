@@ -1,0 +1,12 @@
+11 checks passed
+PASS Supplied Bricks fork Shortcode widget renders four courses
+PASS Supplied Bricks fork canvas catalog no overflow en/1440
+PASS Supplied Bricks fork canvas catalog no overflow en/390
+PASS Supplied Bricks fork canvas catalog no overflow en/320
+PASS Supplied Bricks fork canvas catalog no overflow ar/1440
+PASS Supplied Bricks fork canvas catalog no overflow ar/390
+PASS Supplied Bricks fork canvas catalog no overflow ar/320
+PASS Supplied Bricks fork canvas enrol/read/complete workflow
+PASS Supplied Bricks fork canvas quiz scores 100
+PASS Supplied Bricks fork saved completion survives reload
+PASS No browser JS errors

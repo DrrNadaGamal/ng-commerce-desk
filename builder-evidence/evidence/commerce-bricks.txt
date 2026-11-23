@@ -1,0 +1,28 @@
+SERVER READY
+PASS 1 Supplied Bricks fork active: WooCommerce seed data loads
+PASS 2 Supplied Bricks fork active en/1440/overview
+PASS 3 Supplied Bricks fork active en/1440/orders
+PASS 4 Supplied Bricks fork active en/1440/inventory
+PASS 5 Supplied Bricks fork active en/1440/settings
+PASS 6 Supplied Bricks fork active en/390/overview
+PASS 7 Supplied Bricks fork active en/390/orders
+PASS 8 Supplied Bricks fork active en/390/inventory
+PASS 9 Supplied Bricks fork active en/390/settings
+PASS 10 Supplied Bricks fork active en/320/overview
+PASS 11 Supplied Bricks fork active en/320/orders
+PASS 12 Supplied Bricks fork active en/320/inventory
+PASS 13 Supplied Bricks fork active en/320/settings
+PASS 14 Supplied Bricks fork active ar/1440/overview
+PASS 15 Supplied Bricks fork active ar/1440/orders
+PASS 16 Supplied Bricks fork active ar/1440/inventory
+PASS 17 Supplied Bricks fork active ar/1440/settings
+PASS 18 Supplied Bricks fork active ar/390/overview
+PASS 19 Supplied Bricks fork active ar/390/orders
+PASS 20 Supplied Bricks fork active ar/390/inventory
+PASS 21 Supplied Bricks fork active ar/390/settings
+PASS 22 Supplied Bricks fork active ar/320/overview
+PASS 23 Supplied Bricks fork active ar/320/orders
+PASS 24 Supplied Bricks fork active ar/320/inventory
+PASS 25 Supplied Bricks fork active ar/320/settings
+PASS 26 No browser JavaScript errors
+26 CHECKS PASS

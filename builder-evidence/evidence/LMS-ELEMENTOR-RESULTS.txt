@@ -1,0 +1,12 @@
+11 checks passed
+PASS Elementor Shortcode widget renders four courses
+PASS Elementor canvas catalog no overflow en/1440
+PASS Elementor canvas catalog no overflow en/390
+PASS Elementor canvas catalog no overflow en/320
+PASS Elementor canvas catalog no overflow ar/1440
+PASS Elementor canvas catalog no overflow ar/390
+PASS Elementor canvas catalog no overflow ar/320
+PASS Elementor canvas enrol/read/complete workflow
+PASS Elementor canvas quiz scores 100
+PASS Elementor saved completion survives reload
+PASS No browser JS errors

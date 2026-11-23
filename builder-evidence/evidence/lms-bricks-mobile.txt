@@ -1,0 +1,133 @@
+BRICKS PAGE About WordPress
+NG Learning Demo
+Customize
+0
+0 Comments in moderation
+New
+Edit Page
+Howdy, admin
+Search
+Skip to main content
+Opens in a new tab
+↗
+Learning Studio
+NG / LEARNING EXPERIENCES
+
+LEARNING WORKSPACE
+
+▦
+Explore courses
+▤
+My learning
+≋
+Instructor report
+✧
+Learn with a clear next step.
+
+Short reading lessons, saved progress and a practical knowledge check.
+
+NG
+Nada Gamal
+SYNTHETIC DEMO
+Learning Studio
+/
+Explore courses
+Demo learner
+Alex Demo
+Nour Sample
+Sam Example
+Language
+EN
+العربية
+FR*
+DE*
+◇ Administrator-operated demo. Fictional learners only, no real enrolments or student data.
+
+SELF-PACED / DEMO
+
+A little progress, every day.
+
+Build practical skills, one thoughtful lesson at a time.
+
+04 courses
+No real students. No payments. No outgoing messages.
+✦
+↗
+
+EXPLORE COURSES
+
+Learn with a clear next step.
+4 results
+All topics
+WordPress
+Design
+Development
+Workflow
+All levels
+Beginner
+Intermediate
+NG / WORDPRESS
+WP
+LEARN. BUILD. REFINE.
+WORDPRESS
+Beginner
+Build thoughtful WordPress experiences
+
+Design a clear learning journey, from a focused brief to a responsive, accessible interface.
+
+▤ 4 lessons
+◷ 50 min
+LS
+Studio learning team (fictional)
+↗
+NG / DESIGN
+UI
+LEARN. BUILD. REFINE.
+DESIGN
+Beginner
+Interface design foundations
+
+Make hierarchy, spacing and contrast work together in practical interface exercises.
+
+▤ 4 lessons
+◷ 50 min
+LS
+Studio learning team (fictional)
+↗
+NG / DEVELOPMENT
+JS
+LEARN. BUILD. REFINE.
+DEVELOPMENT
+Intermediate
+JavaScript for useful interactions
+
+Connect interface state to meaningful feedback, with guarded inputs and clear errors.
+
+▤ 4 lessons
+◷ 50 min
+LS
+Studio learning team (fictional)
+↗
+NG / WORKFLOW
+↗
+LEARN. BUILD. REFINE.
+WORKFLOW
+Beginner
+A practical launch checklist
+
+Ship a demo responsibly with testing, honest claims and a clean handoff.
+
+▤ 4 lessons
+◷ 50 min
+LS
+Studio learning team (fictional)
+↗
+AI-assisted implementation · Direction: Nada Gamal
+NG Learning Studio 1.0.0 · SYNTHETIC DEMO
+PASS 1 Supplied Bricks fork Shortcode widget renders four courses
+PASS 2 320px consent checked
+PASS 3 320px physical enrol click saved
+PASS 4 320px reader completion via physical click
+PASS 5 320px completion survives reload
+PASS 6 No JavaScript errors
+6 CHECKS PASS

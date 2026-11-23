@@ -1,0 +1,18 @@
+17 checks passed
+PASS Product search
+PASS Browser stock update persisted through WooCommerce
+PASS Stale stock write rejected
+PASS Reject invalid stock -1
+PASS Reject invalid stock 1.5
+PASS Reject invalid stock 10000
+PASS Reject invalid stock bad
+PASS Missing product rejected
+PASS Out-of-stock filter
+PASS Browser order status saved
+PASS Internal note sanitized
+PASS Completed order terminal transition rejected
+PASS Stale order revision rejected
+PASS Oversized note rejected
+PASS Settings save and persistence
+PASS Invalid settings rejected
+PASS No JavaScript errors

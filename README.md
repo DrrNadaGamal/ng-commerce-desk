@@ -126,8 +126,28 @@ PCI/compliance certification or permission to connect a live shop.
 Tested: WordPress 7.1.5, WooCommerce 11.3.1, PHP 8.3.36, SQLite integration in
 WordPress Playground, headless Google Chrome. WooCommerce CRUD APIs are used,
 not direct order-table SQL. HPOS-specific mode, MySQL/MariaDB, other themes,
-Elementor/Bricks editors, other plugins, multisite and production load have not
+page-builder behaviour beyond the section below, other plugins, multisite and production load have not
 been tested. Nothing here promises universal compatibility. No clinic integration.
+
+## Page builder compatibility
+
+Tested 23-24 November 2026 on disposable WordPress 7.1.5, PHP 8.3.36, SQLite/Playground, Chrome/Linux. No production site or real data used. Plugin release code was not changed by these tests. WooCommerce 11.3.1.
+
+Commerce Desk has no shortcode and no Elementor/Bricks widget. It is a standalone admin/full-screen dashboard, and was tested with the page builder active, not embedded in a builder page.
+
+**Elementor free 4.4.1** (activated): 26 checks passed (seed data, 24 EN/AR no-page-overflow cases across overview/orders/inventory/settings at 1440/390/320px, no JavaScript errors) and a separate 17-check workflow passed (WooCommerce stock save in the browser, stale/invalid stock rejection, inventory filtering, order status and internal note save, stale/terminal/oversized update rejection, settings persistence and invalid-setting rejection, no JavaScript errors).
+
+**Bricks:** A user-supplied modified Bricks fork identifying as 2.4.2 was tested (archive SHA-256 `66aa05c5f426bc3db0d3cdce9351a4790ee8cb1738af9efc5a9437206ecad068`). It is not authenticated as an official Bricks trial or licensed distribution, and results apply only to that exact package. **Official Bricks is untested and is not redistributed here.** The source review and ZIP integrity check done on it are not a malware or security certification. With that fork's theme active, the same 26 dashboard checks and 17-check workflow passed. No embeddable widget or shortcode is claimed.
+
+Caveats from the report:
+
+- An embedded LMS is usable but not pixel-identical to the standalone one. On Elementor Canvas the fixed desktop sidebar interacts with the logged-in admin bar (minor lower-profile overlap/crop). The supplied Bricks fork changes global form styles, so catalog filters stack and the learner label wraps. Standalone is the preferred presentation.
+- One early long mixed-language/viewport test produced a consent warning after the automation reported checking it. It did not reproduce in fresh 320px physical-click tests on either builder, nor in the final desktop run. It is an unreproduced sequence issue, not a confirmed fixed defect.
+- Pages were set up programmatically, not through a drag-and-drop editor session.
+
+Not verified: Elementor editor live-preview reinitialization after widget edits, drag-and-drop authoring, nested/narrow containers, Elementor Pro, official Bricks, other themes/versions/browsers, MySQL, a full accessibility audit, concurrent load or production use.
+
+Evidence (result logs, unaltered screenshots, verification scripts, report): [`builder-evidence/`](builder-evidence/COMPATIBILITY-REPORT.md). No premium theme, Elementor package or auth cookies are included. The test scripts use local mount paths that need adjusting to rerun.
 
 ## Development
 

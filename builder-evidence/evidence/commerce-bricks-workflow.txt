@@ -1,0 +1,31 @@
+SERVER READY
+PASS 1 Product search
+PASS 2 Browser stock update persisted through WooCommerce
+PASS 3 Stale stock write rejected
+PASS 4 Reject invalid stock -1
+PASS 5 Reject invalid stock 1.5
+PASS 6 Reject invalid stock 10000
+PASS 7 Reject invalid stock bad
+PASS 8 Missing product rejected
+PASS 9 Out-of-stock filter
+SUBMIT ORDER
+PASS 10 Browser order status saved
+NOTES [
+  { text: 'Synthetic parcel ready', at: '2026-11-24 00:11' },
+  {
+    text: 'Order status changed from Processing to Completed.',
+    at: '2026-11-24 00:11'
+  },
+  {
+    text: 'Order status changed from Pending payment to Processing.',
+    at: '2026-11-24 00:11'
+  }
+]
+PASS 11 Internal note sanitized
+PASS 12 Completed order terminal transition rejected
+PASS 13 Stale order revision rejected
+PASS 14 Oversized note rejected
+PASS 15 Settings save and persistence
+PASS 16 Invalid settings rejected
+PASS 17 No JavaScript errors
+17 CHECKS PASS
