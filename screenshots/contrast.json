@@ -1,0 +1,62 @@
+[
+  {
+    "code": "en",
+    "view": "overview",
+    "bad": []
+  },
+  {
+    "code": "en",
+    "view": "orders",
+    "bad": []
+  },
+  {
+    "code": "en",
+    "view": "inventory",
+    "bad": []
+  },
+  {
+    "code": "en",
+    "view": "analytics",
+    "bad": []
+  },
+  {
+    "code": "en",
+    "view": "activity",
+    "bad": []
+  },
+  {
+    "code": "en",
+    "view": "settings",
+    "bad": []
+  },
+  {
+    "code": "ar",
+    "view": "overview",
+    "bad": []
+  },
+  {
+    "code": "ar",
+    "view": "orders",
+    "bad": []
+  },
+  {
+    "code": "ar",
+    "view": "inventory",
+    "bad": []
+  },
+  {
+    "code": "ar",
+    "view": "analytics",
+    "bad": []
+  },
+  {
+    "code": "ar",
+    "view": "activity",
+    "bad": []
+  },
+  {
+    "code": "ar",
+    "view": "settings",
+    "bad": []
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "ng-commerce-desk-verification",
+  "version": "1.0.0",
+  "private": true,
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "test:functional": "TEST_PHASE=functional node verification/run.cjs",
+    "test:layout": "TEST_PHASE=layout node verification/run.cjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.65.1",
+    "@wp-playground/cli": "3.1.66"
+  }
+}

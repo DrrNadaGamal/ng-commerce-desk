@@ -1,0 +1,47 @@
+46 checks passed
+PASS Eight real WooCommerce synthetic products
+PASS Thirty-six real WooCommerce synthetic orders
+PASS Demo scope flag
+PASS No customer contact fields returned
+PASS Seed sales totals reconcile: USD 6811
+PASS Sales UI matches API calculation
+PASS Order customer search
+PASS Order empty state
+PASS Order status filter
+PASS Date-range filter includes seven calendar days
+PASS Custom dates exact day
+PASS Product search
+PASS Browser stock update persisted through WooCommerce
+PASS Stale stock write rejected
+PASS Reject invalid stock -1
+PASS Reject invalid stock 1.5
+PASS Reject invalid stock 10000
+PASS Reject invalid stock bad
+PASS Missing product rejected
+PASS Out-of-stock filter
+PASS Browser order status saved
+PASS Internal note sanitized
+PASS Completed order terminal transition rejected
+PASS Stale order revision rejected
+PASS Oversized note rejected
+PASS Settings save and persistence
+PASS Invalid settings rejected
+PASS Invalid REST nonce rejected
+PASS Unsupported export rejected
+PASS CSV full demo export orders
+PASS CSV full demo export inventory
+PASS Browser CSV download
+PASS Shop manager can access demo workspace
+PASS Subscriber denied REST records
+PASS Subscriber denied full-screen UI
+PASS Anonymous denied data
+PASS Synthetic product cannot be purchased
+PASS WooCommerce email and wp_mail blocked in demo mode
+PASS All four PHP files parse
+PASS Untagged product cannot be edited
+PASS Untagged order cannot be edited
+PASS No negative stock after demo status transitions
+PASS Missing stock revision rejected
+PASS Missing order revision rejected
+PASS All locale dictionaries have matching keys
+PASS No browser JS errors
